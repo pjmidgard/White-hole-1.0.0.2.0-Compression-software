@@ -1,3 +1,0 @@
-White_hole 1.0.0.2.0 Compression Software
-The Software includes Autoruns, Python Software and the .reg file.
-Please, put White_hole_1.0.0.2.0.exe, White_hole_Start_1.0.0.2.0.exe and White_hole_1.0.0.2.0.exe to Program Files in the folder White_hole. 
